@@ -50,7 +50,6 @@ public class Personne {
                17, "Rue du Nord", 4001, "Bâle", true, 1000000d,DateTimeLib.createDate(8, 8, 1981));
   }
 
-
   public double getSalaire() {
     return salaire;
   }
